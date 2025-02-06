@@ -1,0 +1,1 @@
+primer ejemplo de conexión a BBDD
